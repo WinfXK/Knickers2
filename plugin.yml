@@ -1,0 +1,21 @@
+name: Knickers2
+main: cn.winfxk.minecraft.kis2.Knickers
+api:
+  - 1.0.0
+version: 1.0.1
+website: http://Winfxk.cn
+description: 超级无牛逼轰轰，宇宙第一好用的菜单插件
+author: Winfxk
+load: POSTWORLD
+depend:
+  - Winfxklib
+loadbefore:
+  - EconomyAPI
+  - Winfxklib
+permissions:
+  Knickers.Command.Player:
+    description: Player Command
+    default: true
+  Knickers.Command.Admin:
+    description: Admin Command
+    default: op

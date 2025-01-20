@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Winfxklib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Winfxklib/Winfxklib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Winfxklib" />
+      <root url="file://$PROJECT_DIR$/../Winfxklib/src" />
+    </SOURCES>
+  </library>
+</component>

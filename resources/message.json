@@ -1,0 +1,23 @@
+{
+  "language": "chs",
+  "语言加载": "%randomColor%加载语言文件: %randomColor%%language%",
+  "插件初始化": "%startRandomColor%%pluginName%%endRandomColor%%randomColor%初始化...",
+  "创建文件夹失败": "§4创建文件夹%dir%出现异常!",
+  "插件启动": "%startRandomColor%%pluginName%%endRandomColor%%randomColor%启动! 耗时%randomColor%%elapsed%",
+  "插件关闭": "%startRandomColor%%pluginName%%endRandomColor%%randomColor%跑撸了！本次运行%randomColor%%elapsed%",
+  "配置加载失败": "§4配置加载失败！请检查配置是否正确Key: %key%, Value: %value%, %error%",
+  "插件初始化异常！": "§4插件初始化异常！ %error%",
+  "快捷工具": {
+    "名称": "§e§l§n快§b§l§n捷§9§l§n菜§4§l§n单",
+    "lore": "%startRandomColor%据说长得帅的人用这个点击地面都能打开一个菜单.....%endRandomColor%"
+  },
+  "菜单": {
+    "类型": {
+      "Command": "命令按钮",
+      "OpenMenu": "菜单按钮"
+    },
+    "菜单数": "%randomColor%已加载%size%个菜单配置(总数%allSize%个，失败%sbSize%个)",
+    "菜单加载异常": "§4加载第%index%个菜单配置%name%(%file%)时出现异常！请检查配置是否正确！%error%",
+    "未知的菜单类型": "§4未知的菜单类型%type%！请检查此类菜单是否一杯启用！"
+  }
+}

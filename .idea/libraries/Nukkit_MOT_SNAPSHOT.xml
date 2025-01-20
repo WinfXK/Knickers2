@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Nukkit-MOT-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/APPFile/Minecraft/Nukkit/Nukkit - MOT/Nukkit-MOT-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../GitHub/Nukkit/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../GitHub/Nukkit/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
